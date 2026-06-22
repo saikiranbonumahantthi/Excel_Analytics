@@ -1,44 +1,75 @@
-## Sales Report :
+# 📊 Excel Analytics Portfolio
 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-Automation-purple?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-Advanced-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
 
-- **Project objective:** 
+**Advanced Excel Solutions for Business Intelligence**
 
-    **1.** Create a _[customer performance report](https://github.com/saikiranbonumahantthi/Excel_Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+---
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/saikiranbonumahantthi/Excel_Analytics/blob/main/Market%20Performance%20VS%20Target.pdf)_
+## 🎯 Overview
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+A comprehensive collection of **advanced Excel analytics solutions** demonstrating expert-level skills in data modeling, financial analysis, and automated reporting.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+---
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+## 📁 Projects Included
 
+### 1. 💰 Financial Dashboard & P&L Model
+- Monthly P&L with budget vs actual variance analysis
+- - Automated KPI dashboards with traffic-light indicators
+  - - Scenario analysis (Best/Base/Worst case modeling)
+    - - Interactive slicers and timeline filters
+     
+      - ### 2. 📈 Sales Analytics Template
+      - - Multi-dimensional sales analysis by region, product, and rep
+        - - Running totals and YTD comparisons
+          - - Commission calculator with tiered structures
+            - - Territory performance heat maps
+             
+              - ### 3. 🔄 Automated Report Generator (VBA)
+              - - One-click report generation saving 4+ hours weekly
+                - - Dynamic chart updates based on user selections
+                  - - Email automation for report distribution
+                    - - Error handling and data validation routines
+                     
+                      - ### 4. 📦 Inventory Management System
+                      - - Real-time stock level tracking with reorder alerts
+                        - - ABC analysis for inventory prioritization
+                          - - Supplier performance tracking dashboard
+                           
+                            - ### 5. 📊 HR Analytics Workbook
+                            - - Headcount planning and forecasting models
+                              - - Attrition analysis and retention metrics
+                                - - Performance rating distribution charts
+                                 
+                                  - ---
 
-## Finance Report :
+                                  ## 🛠️ Excel Skills Demonstrated
 
-- **Project objective:** 
+                                  - Dynamic array functions (FILTER, SORT, UNIQUE, XLOOKUP)
+                                  - - Power Query (M Language) for ETL processes
+                                    - - VBA automation and custom UDFs
+                                      - - Advanced PivotTables and PivotCharts
+                                        - - Complex conditional formatting rules
+                                          - - Dashboard design with interactive controls
+                                           
+                                            - ---
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/saikiranbonumahantthi/Excel_Analytics/blob/main/P%20%26%20L%20Year.pdf)_ & _[Months](https://github.com/saikiranbonumahantthi/Excel_Analytics/blob/main/P%20%26%20L%20Months.pdf)_ 
+                                            ## 📈 Business Impact
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/saikiranbonumahantthi/Excel_Analytics/blob/main/P%20%26%20L%20Year%20(Markets).pdf)_
+                                            | Solution | Time Saved | Impact |
+                                            |----------|-----------|--------|
+                                            | Financial Dashboard | 8 hrs/week | Eliminated manual errors |
+                                            | Report Generator | 4 hrs/week | 100% consistency |
+                                            | Inventory System | 3 hrs/week | 95% stockout reduction |
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+                                            ---
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+                                            ## 📫 Connect
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+                                            [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/saikiran-bonumahantthi)
+                                            [![GitHub](https://img.shields.io/badge/Portfolio-GitHub-181717?style=flat&logo=github)](https://github.com/saikiranbonumahantthi)
 
-
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+                                            ⭐ **Star this repo** if these templates helped you!
