@@ -1,75 +1,58 @@
-# 📊 Excel Analytics Portfolio
+<h1 align="center">📈 Excel Analytics Portfolio</h1>
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-Automation-purple?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-Advanced-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=microsoft&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Author-saikiranbonumahantthi-blue?style=for-the-badge"/>
+</p>
 
-**Advanced Excel Solutions for Business Intelligence**
-
----
-
-## 🎯 Overview
-
-A comprehensive collection of **advanced Excel analytics solutions** demonstrating expert-level skills in data modeling, financial analysis, and automated reporting.
+<p align="center"><b>Advanced Excel dashboards | P&L Reports | Financial KPIs | Power Query | VBA Automation</b></p>
 
 ---
 
-## 📁 Projects Included
+## 📌 Overview
 
-### 1. 💰 Financial Dashboard & P&L Model
-- Monthly P&L with budget vs actual variance analysis
-- - Automated KPI dashboards with traffic-light indicators
-  - - Scenario analysis (Best/Base/Worst case modeling)
-    - - Interactive slicers and timeline filters
-     
-      - ### 2. 📈 Sales Analytics Template
-      - - Multi-dimensional sales analysis by region, product, and rep
-        - - Running totals and YTD comparisons
-          - - Commission calculator with tiered structures
-            - - Territory performance heat maps
-             
-              - ### 3. 🔄 Automated Report Generator (VBA)
-              - - One-click report generation saving 4+ hours weekly
-                - - Dynamic chart updates based on user selections
-                  - - Email automation for report distribution
-                    - - Error handling and data validation routines
-                     
-                      - ### 4. 📦 Inventory Management System
-                      - - Real-time stock level tracking with reorder alerts
-                        - - ABC analysis for inventory prioritization
-                          - - Supplier performance tracking dashboard
-                           
-                            - ### 5. 📊 HR Analytics Workbook
-                            - - Headcount planning and forecasting models
-                              - - Attrition analysis and retention metrics
-                                - - Performance rating distribution charts
-                                 
-                                  - ---
+A collection of professional Excel analytics projects demonstrating advanced data modeling, financial reporting, and business intelligence using Microsoft Excel and Power Query.
 
-                                  ## 🛠️ Excel Skills Demonstrated
+## 📊 Projects Included
 
-                                  - Dynamic array functions (FILTER, SORT, UNIQUE, XLOOKUP)
-                                  - - Power Query (M Language) for ETL processes
-                                    - - VBA automation and custom UDFs
-                                      - - Advanced PivotTables and PivotCharts
-                                        - - Complex conditional formatting rules
-                                          - - Dashboard design with interactive controls
-                                           
-                                            - ---
+### 💼 Sales Analytics Dashboard
+- **Net Sales** performance by customer, product division, and region
+- Year-over-year comparison with dynamic filters
+- Top 10 customers and bottom 5 products analysis
 
-                                            ## 📈 Business Impact
+### 💰 Financial P&L Reports
+- **Profit & Loss by Fiscal Year** — Annual performance tracking
+- **P&L by Markets** — Regional profitability breakdown
+- **P&L by Months** — Monthly trend analysis with gross margin %
 
-                                            | Solution | Time Saved | Impact |
-                                            |----------|-----------|--------|
-                                            | Financial Dashboard | 8 hrs/week | Eliminated manual errors |
-                                            | Report Generator | 4 hrs/week | 100% consistency |
-                                            | Inventory System | 3 hrs/week | 95% stockout reduction |
+### 📋 Customer Performance Report
+- Customer-wise Net Sales for FY2019, FY2020, FY2021
+- Growth % calculation with conditional formatting
+- Target vs actual performance tracking
 
-                                            ---
+### 🎯 Market vs Target Analysis
+- Country-level sales vs target comparison
+- Variance analysis with visual indicators
 
-                                            ## 📫 Connect
+## 🛠️ Tech Stack
 
-                                            [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/saikiran-bonumahantthi)
-                                            [![GitHub](https://img.shields.io/badge/Portfolio-GitHub-181717?style=flat&logo=github)](https://github.com/saikiranbonumahantthi)
+| Tool | Usage |
+|---|---|
+| **Excel** | Pivot Tables, Charts, Conditional Formatting |
+| **Power Query** | Data cleaning, transformation, merging |
+| **DAX / Measures** | KPI calculations, YoY growth |
+| **VBA** | Automation of repetitive reporting tasks |
 
-                                            ⭐ **Star this repo** if these templates helped you!
+## 💡 Key Skills Demonstrated
+
+- ✅ Advanced Pivot Tables & Slicers
+- ✅ Power Query M Language transformations
+- ✅ Dynamic dashboards with named ranges
+- ✅ Financial modeling and P&L structuring
+- ✅ Conditional formatting for executive reports
+
+## 👤 Author
+
+**Sai Kiran Bonumahantthi** | [GitHub](https://github.com/saikiranbonumahantthi) | saikiranbonumahanthi1@gmail.com
